@@ -1,0 +1,2 @@
+[0524/175451:ERROR:exception_handler_server.cc(504)] failed to open 2904
+[0524/175451:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: No process is on the other end of the pipe. (0xE9)
